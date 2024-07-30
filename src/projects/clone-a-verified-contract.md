@@ -1,4 +1,4 @@
-## Clone a Verified Contract on Chain
+## Cl a Verified Contract on Chain
 
 To clone an on-chain verified contract as a Forge project, use [`forge clone`](../reference/forge/forge-clone.md), say [WETH9](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2) on Ethereum mainnet:
 
